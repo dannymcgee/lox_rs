@@ -1,3 +1,5 @@
+## 🚚 👋 [This repo has moved](https://github.com/dannymcgee/lox)
+
 # lox.rs
 
 Yet another implementation of the Lox bytecode VM from [Crafting Interpreters](https://craftinginterpreters.com/).
